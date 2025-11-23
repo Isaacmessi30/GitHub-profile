@@ -8,7 +8,7 @@ I'm a developer passionate about technology and building things with code.
 
 - 💻 **Coding** - I love to code and create solutions to problems
 - ⚙️ **Systems** - I'm fascinated by how systems work and understanding their inner workings
-- 🚀 **JavaScript** - I enjoy coding in .js and building with JavaScript
+- 🚀 **JavaScript** - I like to code .js and build with JavaScript
 - 🤖 **GitHub Copilot** - I love GitHub Copilot and how it enhances my development workflow
 
 ### 📫 Let's Connect
